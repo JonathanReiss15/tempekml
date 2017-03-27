@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"title":"Mill and 3rd St",
+                     "description":"Light rail stop"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9406735897064,
+          33.42752847892317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title":"College and Veterans Way",
+                     "description":"Light rail stop"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9358992576599,
+          33.426167443957944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title":"Rural and University",
+                     "description":"Light rail stop"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92689776420593,
+          33.420767864738224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title":"Dorsey and Apache",
+                     "description":"Light rail stop"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91696286201477,
+          33.41476793841467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"title":"This is a polygon.",
+                     "description":"that area with all the construction"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.92617893218994,
+              33.42092457367611
+            ],
+            [
+              -111.92616820335388,
+              33.420633542566364
+            ],
+            [
+              -111.92623257637023,
+              33.42032460078244
+            ],
+            [
+              -111.92608773708344,
+              33.42019923278847
+            ],
+            [
+              -111.9250363111496,
+              33.41926344454376
+            ],
+            [
+              -111.9242262840271,
+              33.42001565789928
+            ],
+            [
+              -111.92423164844513,
+              33.420521607264405
+            ],
+            [
+              -111.92617893218994,
+              33.42092457367611
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
